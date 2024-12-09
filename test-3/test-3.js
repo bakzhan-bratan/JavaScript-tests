@@ -61,7 +61,7 @@ function applyDecreaseToTop() {
     });
 }
 
-  applyDecreaseToTop()
+applyDecreaseToTop()
 
   function menu() {
     while (true) {
@@ -94,9 +94,6 @@ function applyDecreaseToTop() {
         case "6":
           alert("Сау болыңыз!");
           break;
-        
-          alert("Қате таңдау. Қайталап көріңіз.");
-          
       }
     }
 }
